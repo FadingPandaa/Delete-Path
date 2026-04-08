@@ -19,9 +19,13 @@ Key concepts covered:
 🚀 Features
 
 ✅ Accepts user-defined file or directory paths
+
 ✅ Deletes files or directories
+
 ✅ Validates path existence
+
 ✅ Handles invalid input scenarios
+
 ✅ Simple and structured program flow
 
 --------------------------------------------------------------------------------------
