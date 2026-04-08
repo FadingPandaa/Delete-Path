@@ -58,4 +58,3 @@ Using NetBeans:
 - Improve error handling
 - Add GUI interface
 - Support batch deletion
-- 
